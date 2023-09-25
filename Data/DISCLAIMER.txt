@@ -1,0 +1,11 @@
+Disclaimer: The data used in this project is sourced
+from Preethi Kurra's dataset on Kaggle. Preethi Kurra 
+deserves credit for her valuable contribution to the 
+data science community by making this dataset available. 
+Please note that while the data has been used for analysis 
+and research purposes, any interpretations or conclusions 
+drawn from it are solely those of the project authors and 
+do not necessarily reflect the views of Preethi Kurra or 
+Kaggle. We express our gratitude to Preethi Kurra and the
+ Kaggle community for their data-sharing spirit, which 
+allows us to explore and learn from real-world datasets.
